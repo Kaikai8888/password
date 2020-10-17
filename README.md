@@ -12,6 +12,7 @@ A simple website with password sign-in function built by Express and MongoDB
 * nodemon: 2.0.4
 * express: 4.17.1
 * express-handlebars: 5.1.0
+* express-session: 1.17.1
 * body-parser: 1.19.0
 * mongoDB: 4.2.9
 * robo 3T: 1.4.1
